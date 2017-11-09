@@ -1,0 +1,84 @@
+<<<<<<< HEAD
+=======
+<style>
+    .owl-item {
+        width: 287px !important;
+        border: 1px solid white;
+        margin-right: 2px !important;
+
+    }
+    .il-photo__date{
+        border-top: 1px solid white;
+        width: 285px;
+        position: relative;
+        left: -20px;
+    }
+    .fa-2{
+        font-size: 26px ;
+        margin-top: 13px;
+        margin-left: 10px;
+        margin-right: 15px;
+        color: white;
+    }
+
+</style>
+
+>>>>>>> 56c397b74de788f924ed2e505740e4e6cb7a2c7a
+<section class="social-hub-section">
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-8 col-md-offset-2">
+                    <article class="social-hub-heading">
+                        <div class="line-two">
+                            <h3>OUR SOCIAL HUB</h3>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </article>
+   <article>
+       <div class="container">
+           <div class="row">
+               <div class="instagram-lite owl-carousel owl-theme "></div>
+           </div>
+       </div>
+   </article>
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-12">
+                    <div class="overlay-flex">
+                        <div>
+                            <p>#WeLoveHandcraftedMosaics</p>
+                        </div>
+                    </div>
+                    <br><br><br>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12">
+
+                        </div>
+                    </div>
+
+                    <div id="projects">
+                        <div class="col-sm-12 col-sm-pull-2 col-xs-12">
+                            <div class="figure">
+                                <p class="text-center txt-yearr-dt">38</p>
+                                <div class="txt-year text-center">years</div>
+                            </div>
+                            <div class="figure">
+                                <p class="text-center txt-project-dt">2067</p>
+                                <div class="txt-project text-center">&nbsp;&nbsp; projects</div>
+                            </div>
+                            <div class="figure">
+                                <p class="text-center txt-exibition-dt">60</p>
+                                <div class="text-exibition text-center">exhibitions</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+</section>
